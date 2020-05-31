@@ -1,1 +1,1 @@
-Jarrid is on fire
+Learning to use the Cli instead of just the console and GUI is so much faster
